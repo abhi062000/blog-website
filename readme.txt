@@ -1,1 +1,1 @@
-This is the django blog Project .
+This is the django blog Project where user can sign up and can post the message.
